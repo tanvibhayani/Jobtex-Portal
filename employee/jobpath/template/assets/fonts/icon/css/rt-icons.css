@@ -1,0 +1,83 @@
+@font-face {
+  font-family: 'rt-icons';
+  src: url('../font/rt-icons531c.eot?19278004');
+  src: url('../font/rt-icons531c.eot?19278004#iefix') format('embedded-opentype'),
+       url('../font/rt-icons531c.woff2?19278004') format('woff2'),
+       url('../font/rt-icons531c.woff?19278004') format('woff'),
+       url('../font/rt-icons531c.ttf?19278004') format('truetype'),
+       url('../font/rt-icons531c.svg?19278004#rt-icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/* Chrome hack: SVG is rendered more smooth in Windozze. 100% magic, uncomment if you need it. */
+/* Note, that will break hinting! In other OS-es font will be not as sharp as it could be */
+/*
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: 'rt-icons';
+    src: url('../font/rt-icons.svg?19278004#rt-icons') format('svg');
+  }
+}
+*/
+[class^="rt-"]:before, [class*=" rt-"]:before {
+  font-family: "rt-icons";
+  font-style: normal;
+  font-weight: normal;
+  speak: never;
+
+  display: inline-block;
+  text-decoration: inherit;
+  text-align: center;
+  /* opacity: .8; */
+
+  /* For safety - reset parent styles, that can break glyph codes*/
+  font-variant: normal;
+  text-transform: none;
+
+  /* you can be more comfortable with increased icons size */
+  /* font-size: 120%; */
+
+  /* Font smoothing. That was taken from TWBS */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  /* Uncomment for 3D effect */
+  /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
+}
+
+.rt-briefcase:before { content: '\e800'; } /* '' */
+.rt-calender:before { content: '\e801'; } /* '' */
+.rt-chevron-left:before { content: '\e802'; } /* '' */
+.rt-chevron-right:before { content: '\e803'; } /* '' */
+.rt-clock:before { content: '\e804'; } /* '' */
+.rt-delete:before { content: '\e805'; } /* '' */
+.rt-list:before { content: '\e806'; } /* '' */
+.rt-eye:before { content: '\e807'; } /* '' */
+.rt-eye-2:before { content: '\e808'; } /* '' */
+.rt-facebook:before { content: '\e809'; } /* '' */
+.rt-experience:before { content: '\e80a'; } /* '' */
+.rt-hamburger:before { content: '\e80b'; } /* '' */
+.rt-health-care:before { content: '\e80c'; } /* '' */
+.rt-heart:before { content: '\e80d'; } /* '' */
+.rt-instagram:before { content: '\e80e'; } /* '' */
+.rt-link:before { content: '\e80f'; } /* '' */
+.rt-link-2:before { content: '\e810'; } /* '' */
+.rt-linkedin:before { content: '\e811'; } /* '' */
+.rt-location-alt:before { content: '\e813'; } /* '' */
+.rt-login:before { content: '\e815'; } /* '' */
+.rt-mailbox:before { content: '\e817'; } /* '' */
+.rt-notification:before { content: '\e81a'; } /* '' */
+.rt-pen:before { content: '\e81b'; } /* '' */
+.rt-phone:before { content: '\e81c'; } /* '' */
+.rt-pinterest:before { content: '\e81d'; } /* '' */
+.rt-plus:before { content: '\e81e'; } /* '' */
+.rt-price-tag:before { content: '\e81f'; } /* '' */
+.rt-bookmark:before { content: '\e820'; } /* '' */
+.rt-loading:before { content: '\e821'; } /* '' */
+.rt-review:before { content: '\e822'; } /* '' */
+.rt-qualification:before { content: '\e823'; } /* '' */
+.rt-user:before { content: '\e824'; } /* '' */
+.rt-vector:before { content: '\e825'; } /* '' */
+.rt-youtube:before { content: '\e827'; } /* '' */
+.rt-3d:before { content: '\e828'; } /* '' */
+.rt-branch:before { content: '\e82a'; } /* '' */

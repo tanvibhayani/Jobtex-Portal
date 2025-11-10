@@ -1,0 +1,1060 @@
+@font-face {
+  font-family: "icomoon";
+  src: url("icomoon0a19.eot?ezje79");
+  src: url("icomoon0a19.eot?ezje79#iefix") format("embedded-opentype"),
+    url("icomoon0a19.ttf?ezje79") format("truetype"),
+    url("icomoon0a19.woff?ezje79") format("woff"),
+    url("icomoon0a19.svg?ezje79#icomoon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"],
+[class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: "icomoon" !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-settings:before {
+  content: "\e911";
+  color: #b4d700;
+}
+
+.icon-call-calling .path1:before {
+  content: "\e908";
+  color: rgb(20, 160, 119);
+}
+
+.icon-call-calling .path2:before {
+  content: "\e90f";
+  margin-left: -1em;
+  color: rgb(20, 160, 119);
+  opacity: 0.5;
+}
+
+.icon-call-calling .path3:before {
+  content: "\e910";
+  margin-left: -1em;
+  color: rgb(20, 160, 119);
+  opacity: 0.5;
+}
+
+.icon-call-calling .path4:before {
+  content: "\e9b3";
+  margin-left: -1em;
+  color: rgb(20, 160, 119);
+}
+
+.icon-categorie-2:before {
+  content: "\e909";
+}
+
+.icon-file-doc:before {
+  content: "\e90a";
+  color: #14a077;
+}
+
+.icon-file-pdf:before {
+  content: "\e90b";
+  color: #14a077;
+}
+
+.icon-wishlist .path1:before {
+  content: "\e90c";
+  color: rgb(255, 179, 33);
+  opacity: 0.1;
+}
+
+.icon-wishlist .path2:before {
+  content: "\e9b4";
+  margin-left: -1em;
+  color: rgb(255, 179, 33);
+}
+
+.icon-review .path1:before {
+  content: "\e90d";
+  color: rgb(20, 129, 96);
+  opacity: 0.1;
+}
+
+.icon-review .path2:before {
+  content: "\e9b5";
+  margin-left: -1em;
+  color: rgb(20, 160, 119);
+}
+
+.icon-application .path1:before {
+  content: "\e90e";
+  color: rgb(235, 77, 77);
+  opacity: 0.1;
+}
+
+.icon-application .path2:before {
+  content: "\e9b6";
+  margin-left: -1em;
+  color: rgb(235, 77, 77);
+}
+
+.icon-application .path3:before {
+  content: "\e9b7";
+  margin-left: -1em;
+  color: rgb(235, 77, 77);
+}
+
+.icon-application .path4:before {
+  content: "\e9b8";
+  margin-left: -1em;
+  color: rgb(235, 77, 77);
+}
+
+.icon-application .path5:before {
+  content: "\e9b9";
+  margin-left: -1em;
+  color: rgb(235, 77, 77);
+}
+
+.icon-application .path6:before {
+  content: "\e9ba";
+  margin-left: -1em;
+  color: rgb(235, 77, 77);
+}
+
+.icon-bag .path1:before {
+  content: "\e911";
+  color: rgb(95, 102, 245);
+  opacity: 0.12;
+}
+
+.icon-bag .path2:before {
+  content: "\e912";
+  margin-left: -1em;
+  color: rgb(80, 76, 254);
+}
+
+.icon-bag .path3:before {
+  content: "\e913";
+  margin-left: -1em;
+  color: rgb(80, 76, 254);
+}
+
+.icon-bag .path4:before {
+  content: "\e914";
+  margin-left: -1em;
+  color: rgb(80, 76, 254);
+}
+
+.icon-logo--abstract:before {
+  content: "\e915";
+  color: #14a077;
+}
+
+.icon-logo--aftereffects .path1:before {
+  content: "\e916";
+  color: rgb(20, 160, 119);
+}
+
+.icon-logo--aftereffects .path2:before {
+  content: "\e917";
+  margin-left: -1em;
+  color: rgb(245, 245, 245);
+}
+
+.icon-logo--figma .path1:before {
+  content: "\e918";
+  color: rgb(0, 255, 187);
+}
+
+.icon-logo--figma .path2:before {
+  content: "\e919";
+  margin-left: -1em;
+  color: rgb(20, 160, 119);
+}
+
+.icon-logo--figma .path3:before {
+  content: "\e91a";
+  margin-left: -1em;
+  color: rgb(20, 160, 119);
+}
+
+.icon-logo--figma .path4:before {
+  content: "\e91b";
+  margin-left: -1em;
+  color: rgb(0, 255, 187);
+}
+
+.icon-logo--figma .path5:before {
+  content: "\e91c";
+  margin-left: -1em;
+  color: rgb(0, 255, 187);
+}
+
+.icon-logo--illustrator .path1:before {
+  content: "\e91d";
+  color: rgb(20, 160, 119);
+}
+
+.icon-logo--illustrator .path2:before {
+  content: "\e91e";
+  margin-left: -1em;
+  color: rgb(245, 245, 245);
+}
+
+.icon-logo--indesign .path1:before {
+  content: "\e91f";
+  color: rgb(20, 160, 119);
+}
+
+.icon-logo--indesign .path2:before {
+  content: "\e920";
+  margin-left: -1em;
+  color: rgb(245, 245, 245);
+}
+
+.icon-logo--invision .path1:before {
+  content: "\e921";
+  color: rgb(20, 160, 119);
+}
+
+.icon-logo--invision .path2:before {
+  content: "\e922";
+  margin-left: -1em;
+  color: rgb(245, 245, 245);
+}
+
+.icon-logo--jira:before {
+  content: "\e923";
+  color: #14a077;
+}
+
+.icon-logo--magento:before {
+  content: "\e924";
+  color: #14a077;
+}
+
+.icon-logo--premiere .path1:before {
+  content: "\e925";
+  color: rgb(20, 160, 119);
+}
+
+.icon-logo--premiere .path2:before {
+  content: "\e926";
+  margin-left: -1em;
+  color: rgb(245, 245, 245);
+}
+
+.icon-logo--principle:before {
+  content: "\e927";
+  color: #14a077;
+}
+
+.icon-logo--protopie .path1:before {
+  content: "\e928";
+  color: rgb(245, 245, 245);
+}
+
+.icon-logo--protopie .path2:before {
+  content: "\e929";
+  margin-left: -1em;
+  color: rgb(20, 160, 119);
+}
+
+.icon-logo--protopie .path3:before {
+  content: "\e92a";
+  margin-left: -1em;
+  color: rgb(20, 160, 119);
+}
+
+.icon-logo--photoshop .path1:before {
+  content: "\e92b";
+  color: rgb(20, 160, 119);
+}
+
+.icon-logo--photoshop .path2:before {
+  content: "\e92c";
+  margin-left: -1em;
+  color: rgb(245, 245, 245);
+}
+
+.icon-logo--salesforce .path1:before {
+  content: "\e92d";
+  color: rgb(20, 160, 119);
+}
+
+.icon-logo--salesforce .path2:before {
+  content: "\e92e";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+
+.icon-logo--salesforce .path3:before {
+  content: "\e92f";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+
+.icon-logo--salesforce .path4:before {
+  content: "\e930";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+
+.icon-logo--salesforce .path5:before {
+  content: "\e931";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+
+.icon-logo--salesforce .path6:before {
+  content: "\e932";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+
+.icon-logo--salesforce .path7:before {
+  content: "\e933";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+
+.icon-logo--salesforce .path8:before {
+  content: "\e934";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+
+.icon-logo--salesforce .path9:before {
+  content: "\e935";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+
+.icon-logo--salesforce .path10:before {
+  content: "\e936";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+
+.icon-logo--salesforce .path11:before {
+  content: "\e937";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+
+.icon-logo--sketch .path1:before {
+  content: "\e938";
+  color: rgb(20, 160, 119);
+}
+
+.icon-logo--sketch .path2:before {
+  content: "\e939";
+  margin-left: -1em;
+  color: rgb(20, 160, 119);
+}
+
+.icon-logo--sketch .path3:before {
+  content: "\e93a";
+  margin-left: -1em;
+  color: rgb(20, 129, 96);
+}
+
+.icon-logo--sketch .path4:before {
+  content: "\e93b";
+  margin-left: -1em;
+  color: rgb(0, 255, 187);
+}
+
+.icon-logo--sketch .path5:before {
+  content: "\e93c";
+  margin-left: -1em;
+  color: rgb(0, 255, 187);
+}
+
+.icon-logo--sketch .path6:before {
+  content: "\e93d";
+  margin-left: -1em;
+  color: rgb(0, 255, 187);
+}
+
+.icon-logo--sketch .path7:before {
+  content: "\e93e";
+  margin-left: -1em;
+  color: rgb(0, 255, 187);
+}
+
+.icon-logo--sketch .path8:before {
+  content: "\e93f";
+  margin-left: -1em;
+  color: rgb(20, 160, 119);
+}
+
+.icon-logo--slack .path1:before {
+  content: "\e940";
+  color: rgb(20, 160, 119);
+}
+
+.icon-logo--slack .path2:before {
+  content: "\e941";
+  margin-left: -1em;
+  color: rgb(20, 160, 119);
+}
+
+.icon-logo--slack .path3:before {
+  content: "\e942";
+  margin-left: -1em;
+  color: rgb(0, 255, 187);
+}
+
+.icon-logo--slack .path4:before {
+  content: "\e943";
+  margin-left: -1em;
+  color: rgb(0, 255, 187);
+}
+
+.icon-logo--xd .path1:before {
+  content: "\e944";
+  color: rgb(20, 160, 119);
+}
+
+.icon-logo--xd .path2:before {
+  content: "\e945";
+  margin-left: -1em;
+  color: rgb(245, 245, 245);
+}
+
+.icon-logo--xd .path3:before {
+  content: "\e946";
+  margin-left: -1em;
+  color: rgb(245, 245, 245);
+}
+
+.icon-logo--zeplin .path1:before {
+  content: "\e947";
+  color: rgb(0, 255, 187);
+}
+
+.icon-logo--zeplin .path2:before {
+  content: "\e948";
+  margin-left: -1em;
+  color: rgb(20, 160, 119);
+}
+
+.icon-logo--zeplin .path3:before {
+  content: "\e949";
+  margin-left: -1em;
+  color: rgb(0, 255, 187);
+}
+
+.icon-logo--zeplin .path4:before {
+  content: "\e94a";
+  margin-left: -1em;
+  color: rgb(20, 160, 119);
+}
+
+.icon-logo--zeplin .path5:before {
+  content: "\e94b";
+  margin-left: -1em;
+  color: rgb(20, 160, 119);
+}
+
+.icon-logo--zeplin .path6:before {
+  content: "\e94c";
+  margin-left: -1em;
+  color: rgb(0, 255, 187);
+}
+
+.icon-logo--zeplin .path7:before {
+  content: "\e94d";
+  margin-left: -1em;
+  color: rgb(20, 160, 119);
+}
+
+.icon-logo--zeplin .path8:before {
+  content: "\e94e";
+  margin-left: -1em;
+  color: rgb(20, 160, 119);
+}
+
+.icon-Delivery-Driver:before {
+  content: "\e94f";
+  color: #fff;
+}
+
+.icon-Accounting:before {
+  content: "\e950";
+  color: #fff;
+}
+
+.icon-Customer-Service:before {
+  content: "\e951";
+  color: #fff;
+}
+
+.icon-Data-Science:before {
+  content: "\e952";
+  color: #fff;
+}
+
+.icon-Engineering:before {
+  content: "\e953";
+  color: #fff;
+}
+
+.icon-IT--Networking:before {
+  content: "\e954";
+  color: #fff;
+}
+
+.icon-Project-Manager:before {
+  content: "\e955";
+  color: #fff;
+}
+
+.icon-Sales--Marketing:before {
+  content: "\e956";
+  color: #fff;
+}
+
+.icon-refect:before {
+  content: "\e9bb";
+}
+
+.icon-download:before {
+  content: "\e9bc";
+}
+
+.icon-my-apply:before {
+  content: "\e900";
+  color: #64666c;
+}
+
+.icon-resumes:before {
+  content: "\e902";
+  color: #64666c;
+}
+
+.icon-log-out:before {
+  content: "\e983";
+  color: #64666c;
+}
+
+.icon-change-passwords:before {
+  content: "\e903";
+  color: #64666c;
+}
+
+.icon-following:before {
+  content: "\e901";
+  color: #64666c;
+}
+
+.icon-categorie-1:before {
+  content: "\e957";
+  color: #64666c;
+}
+
+.icon-categorie-3:before {
+  content: "\e958";
+  color: #64666c;
+}
+
+.icon-categorie-4:before {
+  content: "\e959";
+  color: #64666c;
+}
+
+.icon-categorie-5:before {
+  content: "\e95a";
+  color: #64666c;
+}
+
+.icon-categorie-6:before {
+  content: "\e95b";
+  color: #64666c;
+}
+
+.icon-categorie-7:before {
+  content: "\e95c";
+  color: #64666c;
+}
+
+.icon-categorie-8:before {
+  content: "\e95d";
+  color: #64666c;
+}
+
+.icon-lock1:before {
+  content: "\e95e";
+}
+
+.icon-write1:before {
+  content: "\e95f";
+}
+
+.icon-arrow-back:before {
+  content: "\e960";
+}
+
+.icon-arrow-next:before {
+  content: "\e961";
+}
+
+.icon-ic_Bold:before {
+  content: "\e962";
+}
+
+.icon-ic_spacing:before {
+  content: "\e963";
+}
+
+.icon-Italic .path1:before {
+  content: "\e964";
+  color: rgb(255, 255, 255);
+}
+
+.icon-Italic .path2:before {
+  content: "\e965";
+  margin-left: -1em;
+  color: rgb(18, 18, 18);
+}
+
+.icon-Kerning .path1:before {
+  content: "\e966";
+  color: rgb(255, 255, 255);
+}
+
+.icon-Kerning .path2:before {
+  content: "\e967";
+  margin-left: -1em;
+  color: rgb(18, 18, 18);
+}
+
+.icon-Kerning .path3:before {
+  content: "\e968";
+  margin-left: -1em;
+  color: rgb(18, 18, 18);
+}
+
+.icon-Underline .path1:before {
+  content: "\e969";
+  color: rgb(255, 255, 255);
+}
+
+.icon-Underline .path2:before {
+  content: "\e96a";
+  margin-left: -1em;
+  color: rgb(18, 18, 18);
+}
+
+.icon-Underline .path3:before {
+  content: "\e96b";
+  margin-left: -1em;
+  color: rgb(18, 18, 18);
+}
+
+.icon-Alighment-left .path1:before {
+  content: "\e96c";
+  color: rgb(255, 255, 255);
+}
+
+.icon-Alighment-left .path2:before {
+  content: "\e96d";
+  margin-left: -1em;
+  color: rgb(241, 241, 245);
+}
+
+.icon-Alighment-left .path3:before {
+  content: "\e96e";
+  margin-left: -1em;
+  color: rgb(18, 18, 18);
+}
+
+.icon-Attachment .path1:before {
+  content: "\e96f";
+  color: rgb(255, 255, 255);
+}
+
+.icon-Attachment .path2:before {
+  content: "\e970";
+  margin-left: -1em;
+  color: rgb(18, 18, 18);
+}
+
+.icon-Fill .path1:before {
+  content: "\e971";
+  color: rgb(255, 255, 255);
+}
+
+.icon-Fill .path2:before {
+  content: "\e972";
+  margin-left: -1em;
+  color: rgb(18, 18, 18);
+}
+
+.icon-Fill .path3:before {
+  content: "\e973";
+  margin-left: -1em;
+  color: rgb(18, 18, 18);
+}
+
+.icon-Fill .path4:before {
+  content: "\e974";
+  margin-left: -1em;
+  color: rgb(18, 18, 18);
+}
+
+.icon-Image .path1:before {
+  content: "\e975";
+  color: rgb(255, 255, 255);
+}
+
+.icon-Image .path2:before {
+  content: "\e976";
+  margin-left: -1em;
+  color: rgb(18, 18, 18);
+}
+
+.icon-Image .path3:before {
+  content: "\e977";
+  margin-left: -1em;
+  color: rgb(18, 18, 18);
+}
+
+.icon-Image .path4:before {
+  content: "\e978";
+  margin-left: -1em;
+  color: rgb(18, 18, 18);
+}
+
+.icon-Image .path5:before {
+  content: "\e979";
+  margin-left: -1em;
+  color: rgb(18, 18, 18);
+}
+
+.icon-Justify-center .path1:before {
+  content: "\e97a";
+  color: rgb(255, 255, 255);
+}
+
+.icon-Justify-center .path2:before {
+  content: "\e97b";
+  margin-left: -1em;
+  color: rgb(18, 18, 18);
+}
+
+.icon-Justify-left .path1:before {
+  content: "\e97c";
+  color: rgb(255, 255, 255);
+}
+
+.icon-Justify-left .path2:before {
+  content: "\e97d";
+  margin-left: -1em;
+  color: rgb(18, 18, 18);
+}
+
+.icon-alighment-center:before {
+  content: "\e97e";
+}
+
+.icon-alighment-right:before {
+  content: "\e97f";
+}
+
+.icon-ic_link:before {
+  content: "\e980";
+}
+
+.icon-justitify:before {
+  content: "\e981";
+}
+
+.icon-dolar1:before {
+  content: "\e905";
+}
+
+.icon-hourglass:before {
+  content: "\e982";
+  color: #64666c;
+}
+
+.icon-meeting:before {
+  content: "\e984";
+  color: #64666c;
+}
+
+.icon-chat:before {
+  content: "\e985";
+  color: #64666c;
+}
+
+.icon-mypackage:before {
+  content: "\e986";
+  color: #64666c;
+}
+
+.icon-bell1:before {
+  content: "\e987";
+  color: #64666c;
+}
+
+.icon-applicant:before {
+  content: "\e988";
+  color: #64666c;
+}
+
+.icon-save-candidate:before {
+  content: "\e989";
+  color: #64666c;
+}
+
+.icon-submit:before {
+  content: "\e98a";
+  color: #64666c;
+}
+
+.icon-profile:before {
+  content: "\e98b";
+  color: #64666c;
+}
+
+.icon-return:before {
+  content: "\e98c";
+  color: #64666c;
+}
+
+.icon-shipping:before {
+  content: "\e98d";
+  color: #64666c;
+}
+
+.icon-place:before {
+  content: "\e98e";
+  color: #fff;
+}
+
+.icon-call:before {
+  content: "\e98f";
+  color: #fff;
+}
+
+.icon-heart1:before {
+  content: "\e990";
+  color: #fff;
+}
+
+.icon-flag:before {
+  content: "\e991";
+  color: #64666c;
+}
+
+.icon-like:before {
+  content: "\e992";
+  color: #fff;
+}
+
+.icon-search1:before {
+  content: "\e993";
+  color: #64666c;
+}
+
+.icon-play:before {
+  content: "\e994";
+  color: #fff;
+}
+
+.icon-like1:before {
+  content: "\e907";
+  color: #6a6a6a;
+}
+
+.icon-instagram1:before {
+  content: "\e995";
+}
+
+.icon-smile:before {
+  content: "\e9e1";
+}
+
+.icon-plus:before {
+  content: "\ea0a";
+}
+
+.icon-minus:before {
+  content: "\ea0b";
+}
+
+.icon-share2:before {
+  content: "\ea82";
+}
+
+.icon-menu:before {
+  content: "\e9bd";
+}
+
+.icon-star-full:before {
+  content: "\e9d9";
+}
+
+.icon-heart:before {
+  content: "\e9da";
+}
+
+.icon-twitter:before {
+  content: "\ea96";
+}
+
+.icon-youtube:before {
+  content: "\ea9d";
+}
+
+.icon-linkedin2:before {
+  content: "\eaca";
+}
+
+.icon-facebook:before {
+  content: "\ea90";
+}
+
+.icon-arrow-right2:before {
+  content: "\ea3c";
+}
+
+.icon-trash:before {
+  content: "\e9aa";
+}
+
+.icon-time:before {
+  content: "\e9a9";
+}
+
+.icon-link:before {
+  content: "\e9ab";
+}
+
+.icon-bolt:before {
+  content: "\e9ac";
+}
+
+.icon-pinterest:before {
+  content: "\e9ad";
+}
+
+.icon-search:before {
+  content: "\e9ae";
+}
+
+.icon-clear:before {
+  content: "\e904";
+}
+
+.icon-close:before {
+  content: "\e904";
+}
+
+.icon-calendar_today:before {
+  content: "\e996";
+}
+
+.icon-image:before {
+  content: "\e997";
+}
+
+.icon-eye-off:before {
+  content: "\e998";
+}
+
+.icon-eye:before {
+  content: "\e999";
+}
+
+.icon-work:before {
+  content: "\e99a";
+}
+
+.icon-dashboard:before {
+  content: "\e99b";
+}
+
+.icon-filter:before {
+  content: "\e99c";
+}
+
+.icon-send:before {
+  content: "\e99d";
+}
+
+.icon-map-pin:before {
+  content: "\e99e";
+}
+
+.icon-keyboard_arrow_up:before {
+  content: "\e99f";
+}
+
+.icon-keyboard_arrow_right:before {
+  content: "\e9a0";
+}
+
+.icon-keyboard_arrow_left:before {
+  content: "\e9a1";
+}
+
+.icon-keyboard_arrow_down:before {
+  content: "\e9a2";
+}
+
+.icon-calendar:before {
+  content: "\e9a3";
+}
+
+.icon-bell:before {
+  content: "\e9a4";
+}
+
+.icon-help-circle:before {
+  content: "\e9a5";
+}
+
+.icon-grid:before {
+  content: "\e9a6";
+}
+
+.icon-cancel:before {
+  content: "\e9a7";
+}
+
+.icon-mail-envelope-closed:before {
+  content: "\e9a8";
+}
+
+.icon-bubble:before {
+  content: "\e9af";
+}
+
+.icon-caret-down:before {
+  content: "\e9b0";
+}
+
+.icon-paper-plane-o:before {
+  content: "\e9b1";
+}
+
+.icon-dollar:before {
+  content: "\e906";
+}
+
+.icon-check:before {
+  content: "\e9b2";
+}

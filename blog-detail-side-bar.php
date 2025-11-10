@@ -1,0 +1,330 @@
+<?php
+    include 'header.php';
+?>
+
+  <section class="blog-details-section">
+      <div class="tf-container">
+        <div class="row">
+          <div class="blog style-1 stc col-xl-9 col-lg-8">
+            <div class="blog-detail blog-detail-side-bar-content side-bar-blog">
+                  <div class="widget-blog-1 style-1">
+                      <div class="content">
+                          <span class="sub-title">Makerting</span>
+                          <h3 class="main-heading">5 Rules to keep in mind when negotiating a job</h3>
+                          <div class="meta">
+                              <div class="author"><span>by</span>Avitex</div>
+                              <div class="time"><span class="icon-calendar"></span> 2 days ago</div>
+                          </div>
+                      </div>
+                      <div class="image">
+                          <img src="images/blog/blog-detail-01.jpg" alt="">
+                      </div>
+                  </div>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi interdum sed mauris eu imperdiet. Donec congue orci nec mi luctus, ut faucibus mauris scelerisque. Donec orci lorem, volutpat a mauris nec, sodales imperdiet urna. Sed dictum enim libero. Interdum et malesuada fames ac ante ipsum primis in faucibus. Maecenas ligula libero, pharetra non dolor et, tempor bibendum magna. Mauris a efficitur nisi.</p>
+                  <p>Praesent interdum lacus ac est viverra hendrerit. Aliquam dapibus, ante vitae mattis gravida, purus sapien interdum magna, convallis volutpat est turpis pulvinar dui. Aenean eu turpis est. In hac habitasse platea dictumst. Integer at lobortis metus. Proin molestie eget massa vel gravida. Suspendisse nec ante vel augue consectetur mollis.</p>
+                  <div class="image-single">
+                      <img src="images/blog/blog-detail-02.jpg" alt="">
+                      <img src="images/blog/blog-detail-03.jpg" alt="">
+                  </div>
+                  <h5>How to deal with employee quitting</h5>
+                  <p>Donec eu dui condimentum, laoreet nulla vitae, venenatis ipsum. Donec luctus sem sit amet varius laoreet. Aliquam fermentum sit amet urna fringilla tincidunt. Vestibulum ullamcorper nec lacus ac molestie. Curabitur congue neque sed nisi auctor consequat. Pellentesque rhoncus tortor vitae ipsum sagittis tempor.</p>
+                  <p>Vestibulum et pharetra arcu. In porta lobortis turpis. Ut faucibus fermentum posuere. Suspendisse potenti. Mauris a metus sed est semper vestibulum. Mauris tortor sem, consectetur vehicula vulputate id, suscipit vel leo.</p>
+                  <ul class="blog-text">
+                      <li>15+ years of industry experience designing, building, and supporting large-scale distributed systems in production, with recent experience in building large scale cloud services.</li>
+                      <li>Deep knowledge and experience with different security areas like identity and access management, cryptography, network security, etc.</li>
+                      <li>Experience with database systems and database internals, such as query engines and optimizers are a big plus. </li>
+                      <li>Strong fundamentals in computer science skills.</li>
+                      <li>Expert-level development skills in Java or C++.</li>
+                      <li>Knowledge of industry standard security concepts and protocols like SAML, SCIM, OAuth, RBAC, cryptography is a plus.</li>
+                      <li>Advanced degree in Computer Science or related degree.</li>
+                      <li>Ph.D. in the related field is a plus</li>
+                  </ul>
+                  <p>Curabitur aliquam ac arcu in mattis. Phasellus pulvinar erat at aliquam hendrerit. Nam ut velit dolor. Sed fermentum tempus odio, ac faucibus elit scelerisque consequat. Fusce ac malesuada elit. Nam at aliquam libero, quis lacinia erat. In hac habitasse platea dictumst. Suspendisse id dolor orci. Vivamus at aliquam tellus. Vestibulum a augue ac purus suscipit varius non eget lectus. Nam lobortis mauris luctus tristique feugiat. Nulla eleifend risus sit amet nisi feugiat, id eleifend sapien malesuada. Phasellus venenatis convallis mattis. Duis vel tempor eros. Mauris semper sollicitudin neque, imperdiet ultrices urna maximus id.</p>
+                  <div class="tag-social">
+                    <div class="widget-popular-tags">
+                        <span class="main-title">Tag:</span>
+                        <ul class="widget-popular-tags-wrap">
+                            <li class="widget-popular-tags-item"><a href="#">Featured</a></li>
+                            <li class="widget-popular-tags-item"><a href="#">Interview</a></li>
+                            <li class="widget-popular-tags-item"><a href="#">Career</a></li>
+                        </ul>
+                    </div>
+                    <div class="wd-social d-flex aln-center">
+                      <span>Share this post:</span>
+                      <ul class="list-social d-flex aln-center">
+                        <li><a href="#"><i class="icon-facebook"></i></a></li>
+                        <li><a href="#"><i class="icon-linkedin2"></i></a></li>
+                        <li><a href="#"><i class="icon-twitter"></i></a></li>
+                        <li><a href="#"><i class="icon-pinterest"></i></a></li>
+                        <li><a href="#"><i class="icon-instagram1"></i></a></li>
+                        <li><a href="#"><i class="icon-youtube"></i></a></li>
+                      </ul>
+                    </div>
+                </div>
+                <div class="nav-links stc">
+                    <div class="post-navigation previous-post">
+                        <div class="title-post">
+                            <a href="#" rel="prev">Previous</a>
+                        </div>
+                        <p>How to choose the right customer </p>
+                    </div>
+                    <div class="post-navigation next-post">
+                        <div class="title-post text-end">
+                            <a href="#" rel="prev">Next</a>
+                        </div>
+                        <p>Starting your traveling blog with Vasco</p>
+                    </div>
+                </div>
+                <div class="comment-list-wrap">
+                    <h3 class="comment-title">03 Comments</h3>
+                    <div class="comment-list">
+                        <article class="widget-comment-wrap">
+                            <div class="feature-post">
+                                <img src="images/user/avatar/image-02.jpg" alt="">
+                            </div>
+                            <div class="content-post">
+                                <div class="post-author">
+                                    <a href="#">Guy Hawkins</a>
+                                    <span class="icon-check"></span>
+                                </div>
+                                <div class="post-date">August 13, 2023</div>
+                                <p>Lorem ipsum dolor sit amet consectetur. Cursus nunc pharetra arcu quam turpis risus amet turpis. Facilisis elementum tincidunt pellentesque sed rutrum enim.</p>
+                                <div class="button"><a href="#">Reply</a></div>
+                            </div>
+                            <div class="helpfull">
+                                <a href="#">Was this helpful?<span class="icon-like1"></span></a>
+                            </div>
+                        </article>
+                        <div class="children">
+                            <article class="widget-comment-wrap">
+                                <div class="feature-post">
+                                    <img src="images/user/avatar/image-03.jpg" alt="">
+                                </div>
+                                <div class="content-post">
+                                    <div class="post-author">
+                                        <a href="#">Eleanor Pena</a>
+                                        <span class="icon-check"></span>
+                                    </div>
+                                    <div class="post-date">August 13, 2023</div>
+                                    <p>Great choice of Acronym AF1’s 👌🏼</p>
+                                    <div class="button"><a href="#">Reply</a></div>
+                                </div>
+                                <div class="helpfull">
+                                    <a href="#">Was this helpful?<span class="icon-like1"></span></a>
+                                </div>
+                            </article>
+                        </div>
+                        <article class="widget-comment-wrap">
+                            <div class="feature-post">
+                                <img src="images/user/avatar/image-04.jpg" alt="">
+                            </div>
+                            <div class="content-post">
+                                <div class="post-author">
+                                    <a href="#">Jerome Bell</a>
+                                    <span class="icon-check"></span>
+                                </div>
+                                <div class="post-date">August 13, 2023</div>
+                                <p>Lorem ipsum dolor sit amet consectetur. Cursus nunc pharetra arcu quam turpis risus amet turpis. Facilisis elementum tincidunt pellentesque sed rutrum enim.</p>
+                                <div class="button"><a href="#">Reply</a></div>
+                            </div>
+                            <div class="helpfull">
+                                <a href="#">Was this helpful?<span class="icon-like1"></span></a>
+                            </div>
+                        </article>
+                    </div>
+                </div>
+                <form method="post" class="wd-form-rating">
+                  <div class="row">
+                    <div class="col-lg-12">
+                      <div class="form-rating-heading">
+                        <h3>Leave A Comment</h3>
+                      </div>
+                    </div>
+                    <div class="col-lg-12">
+                      <div class="form-rating-content">
+                        <div class="row">
+                          <div class="col-lg-6">
+                            <div class="wrap-input">
+                              <label>Name</label>
+                              <input type="text" placeholder="Your name">
+                            </div>
+                          </div>
+                          <div class="col-lg-6">
+                            <div class="wrap-input">
+                              <label>Email</label>
+                              <input type="text" placeholder="jobtex@mail.com">
+                            </div> 
+                          </div>
+                          <div class="col-lg-12">
+                            <div class="wrap-checkbox">
+                              <input type="checkbox">
+                              <label>Save my name, email, and website in this browser for the next time I comment.</label>
+                            </div>
+                          </div>
+                          <div class="col-lg-12">
+                            <div class="wrap-notes">
+                              <label>Comment</label>
+                              <textarea   cols="30" rows="10" placeholder="Write comment"></textarea>
+                            </div>
+                            
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-lg-12">
+                      <button class="tf-btn-submit style-2">submit review</button>
+                    </div>
+                  </div>
+                </form>
+            </div>
+          </div>
+          <div class="col-xl-3 col-lg-4">
+            <div class="widget-side-bar stc">
+              <form role="search" method="get" action="#" class="widget-block-search-2">
+                  <div class="widget-block-search-2-wrap">
+                      <input type="search" class="widget-block-search-2-input " placeholder="Search" required="">
+                      <button type="submit" class="widget-block-search-2-button">
+                          <span class="icon-search1"></span>
+                      </button>
+                  </div>
+              </form>
+              <div class="wrap-post">
+                <div class="categories">
+                  <h3 class="main-title">Categories</h3>
+                  <div class="categories-wrap">
+                      <div class="categories-item"><a href="#">Business</a></div>
+                      <div class="categories-item"><a href="#">Interview</a></div>
+                      <div class="categories-item"><a href="#">Career</a></div>
+                      <div class="categories-item"><a href="#">Company</a></div>
+                  </div>
+                </div>
+                <div class="recent-posts">
+                  <div class="main-title">Recent Posts</div>
+                  <div class="recent-post-wrap">
+                      <div class="widget-blog-1">
+                          <div class="image">
+                              <img src="images/side-bar/image-01.jpg" alt="">
+                          </div>
+                          <div class="content">
+                              <div class="sub-title">Development</div>
+                              <div class="text"><a href="blog-detail.html">September Most-Loved Best Selling Fall Pieces</a></div>
+                          </div>
+                      </div>
+                      <div class="widget-blog-1">
+                          <div class="image">
+                              <img src="images/side-bar/image-02.jpg" alt="">
+                          </div>
+                          <div class="content">
+                              <div class="sub-title">Design</div>
+                              <div class="text"><a href="blog-detail.html">5 Rules to keep in mind when negotiating a job</a></div>
+                          </div>
+                      </div>
+                      <div class="widget-blog-1">
+                          <div class="image">
+                              <img src="images/side-bar/image-03.jpg" alt="">
+                          </div>
+                          <div class="content">
+                              <div class="sub-title">Business</div>
+                              <div class="text"><a href="blog-detail.html">Strategies to increase salary with job offers</a></div>
+                          </div>
+                      </div>
+                  </div>
+                </div>
+              </div>
+              
+              <div class="widget-popular-tags">
+                  <div class="main-title">Popular Tags</div>
+                  <div class="widget-popular-tags-wrap">
+                      <span class="widget-popular-tags-item"><a href="#">Featured</a></span>
+                      <span class="widget-popular-tags-item"><a href="#">Experience</a></span>
+                      <span class="widget-popular-tags-item"><a href="#">Interview</a></span>
+                      <span class="widget-popular-tags-item"><a href="#">Skill</a></span>
+                      <span class="widget-popular-tags-item"><a href="#">Business</a></span>
+                      <span class="widget-popular-tags-item"><a href="#">Featured</a></span>
+                  </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        </div>
+  </section>
+
+  <section class="inner-news-section-2 stc">
+    <div class="tf-container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="tf-title style-2 style-4">
+            <div class="group-title">
+              <h1>Recent News Articles</h1>
+              <p>Jobtex’s Blog provides valuable content to the conscious job seeker and employees</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <div class="box-latest">
+            <div class="img-latest">
+              <img src="images/blog/news-01.jpg" alt="images/blog/news-01.jpg">
+            </div>
+            <div class="box-content">
+              <div class="heading">
+                <a href="#" class="tag">Design</a>
+                <h3><a href="#"> The 9-to-5 workday doesn’t work anymore</a></h3>
+              </div>
+              <ul class="date-post">
+                <li>by Avitex </li>
+                <li>
+                 <span class="icon-calendar"></span>
+                 2 days ago
+               </li>
+             </ul>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <div class="box-latest">
+            <div class="img-latest">
+              <img src="images/blog/news-02.jpg" alt="images/blog/news-02.jpg">
+            </div>
+            <div class="box-content">
+              <div class="heading">
+                <a href="#" class="tag">Business</a>
+                <h3><a href="#">Cards on the table: 3 ways to spot a transparent company</a></h3>
+              </div>
+              <ul class="date-post">
+                 <li>by Avitex </li>
+                 <li>
+                  <span class="icon-calendar"></span>
+                  2 days ago
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <div class="box-latest">
+            <div class="img-latest">
+              <img src="images/blog/news-03.jpg" alt="images/blog/news-03.jpg">
+            </div>
+            <div class="box-content">
+              <div class="heading">
+                <a href="#" class="tag">Design</a>
+                <h3><a href="#">Jobtex Announces Awards Criteria for the Best Places to Work 2023</a></h3>
+              </div>
+              <ul class="date-post">
+                <li>by Avitex </li>
+                <li>
+                 <span class="icon-calendar"></span>
+                 2 days ago
+               </li>
+             </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+  
+ <?php
+        include 'footer.php';
+ ?>
