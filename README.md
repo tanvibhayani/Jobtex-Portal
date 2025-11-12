@@ -2,7 +2,7 @@
 
 This is a fully functional Job Portal Website built with PHP and MySQL, hosted on InfinityFree.
 It allows users to register, log in, search and apply for jobs, while employers can post and manage job listings through an admin panel.
-
+---
 🔗 Live Demo
 
 Check the project live here:
