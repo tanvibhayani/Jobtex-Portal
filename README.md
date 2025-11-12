@@ -57,9 +57,13 @@ ___
 ⚙️ Technologies Used
 ---
 PHP
+
 MySQL
+
 HTML / CSS / Bootstrap
+
 JavaScript / jQuery
+
 InfinityFree Hosting
 ___
 📌 How to Use
