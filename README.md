@@ -48,9 +48,8 @@ ___
 ![homepage](https://i.postimg.cc/Xv3R5qFc/localhost-90-job-home-01-php-1.png)
 
 Homepage
-Browse latest job openings and featured companies.
 
-Job Details Page
+![Job Details Page](https://i.postimg.cc/pVYq9CkR/localhost-90-job-find-jobs-list-php.png)
 View detailed job information and apply easily.
 
 Admin Dashboard
