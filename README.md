@@ -44,6 +44,7 @@ Secure Password Hashing (bcrypt)
 Separate User, Employer, and Admin Roles
 ___
 🖼 Screenshots / Preview
+
 https://i.postimg.cc/Xv3R5qFc/localhost-90-job-home-01-php-1.png
 Homepage
 Browse latest job openings and featured companies.
