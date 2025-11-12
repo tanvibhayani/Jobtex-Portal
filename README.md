@@ -50,6 +50,7 @@ ___
 Homepage
 
 ![Job Details Page](https://i.postimg.cc/pVYq9CkR/localhost-90-job-find-jobs-list-php.png)
+
 View detailed job information and apply easily.
 
 Admin Dashboard
