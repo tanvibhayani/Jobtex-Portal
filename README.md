@@ -53,8 +53,6 @@ Homepage
 
 View detailed job information and apply easily.
 
-Admin Dashboard
-Manage job posts, users, and applications.
 ___
 ⚙️ Technologies Used
 ---
