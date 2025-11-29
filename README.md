@@ -70,4 +70,4 @@ ___
 ---
 Clone the repository:
 
-git clone https://github.com/tanvibhayani/Jobtex-Portal/job-portal.git
+git clone https://github.com/tanvibhayani/Jobtex-Portal
