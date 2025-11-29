@@ -6,7 +6,7 @@ ___
 
 🔗 Live Demo
 ---
-Check the project live here: Job Portal Live
+Check the project live here: [Job Portal Live](http://jobportalphp.rf.gd/)
 
 
 🔑 Admin Panel
