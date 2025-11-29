@@ -19,7 +19,7 @@ Admin panel allows posting, editing, and managing job listings and applications.
 💻 GitHub Repository
 ---
 All project code is available here:
-👉 GitHub Repo
+👉 [GitHub Repo](https://github.com/tanvibhayani/)
 ___
 ✨ Features
 ---
